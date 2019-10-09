@@ -1,0 +1,1 @@
+I have used the full screen functionality using ScaleManager's methods and got results that was expected but not with Edge-browser. In Edge when I try to call `this.scale.startFullscreen()` I get an error in the console :  `Unable to get property 'then' of undefined or null reference`.
